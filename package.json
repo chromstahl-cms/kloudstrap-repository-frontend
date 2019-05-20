@@ -20,6 +20,6 @@
     "homepage": "https://github.com/chromstahl-cms/kloudstrap-repository-frontend#readme",
     "dependencies": {
         "microbundle": "^0.11.0",
-        "@kloudsoftware/chromstahl-plugin": "1.0.5"
+        "@kloudsoftware/chromstahl-plugin": "1.0.9"
     }
 }
